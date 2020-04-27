@@ -1,1 +1,1 @@
-# de-tslint-rules
+# devSpecial-tslint-rules
