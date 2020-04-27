@@ -1,8 +1,8 @@
 {
-  "name": "@de",
+  "name": "@de-tslint-rules",
   "version": "1.0.1",
-  "scope":"@h21-map-types",
-  "description": "TypeScript definitions for Baidu Map",
+  "scope":"@de",
+  "description": "To use these TSLint rules, use configuration inheritance via the extends keyword",
   "main": "",
   "types": "index",
   "scripts": {
@@ -10,12 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/novakand/h21-map-types-baidu-map"
+    "url": "git+https://github.com/devspecialcom/de-tslint-rules"
   },
   "keywords": [
-    "baidu",
-    "baidu-map",
-    "baidu-types",
+    "tslint",
     "angular"
   ],
   "author": "",
