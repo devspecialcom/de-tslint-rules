@@ -1,0 +1,23 @@
+{
+  "name": "@de",
+  "version": "1.0.1",
+  "scope":"@h21-map-types",
+  "description": "TypeScript definitions for Baidu Map",
+  "main": "",
+  "types": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novakand/h21-map-types-baidu-map"
+  },
+  "keywords": [
+    "baidu",
+    "baidu-map",
+    "baidu-types",
+    "angular"
+  ],
+  "author": "",
+  "license": ""
+}
