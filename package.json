@@ -1,7 +1,7 @@
 {
-  "name": "@de-tslint-rules",
+  "name": "@devspec/tslint-rules",
   "version": "1.0.1",
-  "scope":"@de",
+  "scope":"@devspec",
   "description": "To use these TSLint rules, use configuration inheritance via the extends keyword",
   "main": "",
   "types": "index",
